@@ -63,3 +63,6 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+# Plan de Vol
+Site web dédié à l'auto-positionnement des élèves du programme de L'Envol sur un radar de type "Outcomes Star". Développé par Article 1 pour L'Envol.
